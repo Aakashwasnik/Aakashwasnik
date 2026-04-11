@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=aakashwasnik&label=Profile%20views&color=0e75b6&style=flat" alt="aakashwasnik" /> </p>
 
-- 🔭 I’m currently working on [LocalDukan](https://github.com/Aakashwasnik/LocalDukannew)
+- 🔭 I’m currently working on [Artist Connect](https://github.com/Aakashwasnik/ArtistConnect)
 
 - 🌱 I’m currently learning **DSA**
 
